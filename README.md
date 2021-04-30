@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HughBennett
-- 👀 I’m interested in DevOps, PWA
-- 🌱 I’m currently learning Vuejs
+- 👀 I’m interested in DevOps, Web Development, & PWA
+- 🌱 I’m currently learning Vuejs, Blazor development
 - 💞️ I’m looking to collaborate on new startups
 - 📫 How to reach me: LinkedIn
 
